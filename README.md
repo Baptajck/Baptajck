@@ -1,4 +1,4 @@
-### Salut à tous 👋
+## Salut à tous ✌️
 
 <a href="https://twitter.com/baptjacky">
   <img align="left" alt="Baptiste Parville | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,6 +14,25 @@
 
 <br />
 
+
+Salut<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">, je suis [Baptiste Parville](https://baptjack.fr/), un Développeur Full Stack 🚀 formé à l'école [O'clock](https://oclock.io/). <br />
+A côté du code, j'aime photographier la nature 🏞 et faire du skateboard 🛹.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+
+- 👨🏽‍💻 En recherche en tant que dev web
+- 🌱 Veille technologique
+- 📫 <a href="https://www.linkedin.com/in/baptiste-parville/">Contactez moi</a>
+
+
+### 📈 Mes statistiques GitHub
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=baptajck&show_icons=true&theme=gotham" alt="baptjack" />
+
+
+
+
 <!--
 **Baptajck/Baptajck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,11 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=baptajck&show_icons=true&theme=gotham" alt="baptjack" />
-
-</details>
-
