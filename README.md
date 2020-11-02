@@ -32,9 +32,8 @@ A côté du code, j'aime photographier la nature 🏞 et faire du skateboard �
 <br />
 <br />
 
-![](https://github-readme-stats.vercel.app/api/pin?username=baptajck&repo=becomepote&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<!-- ![](https://github-readme-stats.vercel.app/api/pin?username=baptajck&repo=becomepote&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
 
-![](https://github-readme-stats.vercel.app/api/pin?username=baptajck&repo=portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **Baptajck/Baptajck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
