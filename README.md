@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<a href="https://linkedin.com/in/baptiste-parville" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="baptiste-parville" height="40" width="40" /></a>
-</p>
+<details>
+<summary>📈 My GitHub Stats</summary>
 
-|![Github stats](https://github-readme-stats.vercel.app/api?username=baptajck&show_icons=true&count_private=true)|![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baptajck&hide=html)|
-|-|-|
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=baptajck&show_icons=true&theme=gotham" alt="baptjack" />
+
+</details>
+
