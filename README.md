@@ -15,7 +15,7 @@
 <br />
 
 
-Salut<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je suis [Baptiste Parville](https://baptjack.fr/), un Développeur Full Stack 🚀 formé à l'école [O'clock](https://oclock.io/). <br />
+Salut<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je suis [Baptiste Parville](http://baptjack.fr/), un Développeur Full Stack 🚀 formé à l'école [O'clock](https://oclock.io/). <br />
 A côté du code, j'aime photographier la nature 🏞 et faire du skateboard 🛹.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="230" />
