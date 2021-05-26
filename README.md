@@ -1,7 +1,7 @@
 ## Salut à tous ✌️
 
 <a href="https://twitter.com/baptjacky">
-  <img align="left" alt="Baptiste Parville | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Baptiste Parville | Twitter" width="22px" color='blue' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/baptiste-parville/">
   <img align="left" alt="Baptiste Parville | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
